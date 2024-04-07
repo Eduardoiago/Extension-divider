@@ -22,7 +22,7 @@ The Extension Divider project was developed in python. The script is used to org
     files = os.listdir(path)
 ```
 
-- ## Organizing files:
+## Organizing files:
 
 ``` python
     for file in files:
