@@ -1,6 +1,4 @@
 
-# EXTENSIONDIVIDER - Otimizador para organizar pastas.
-
 import os
 import shutil
 
