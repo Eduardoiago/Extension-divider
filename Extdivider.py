@@ -36,5 +36,5 @@ for file in files:
 
 print(' ')
 print('    ======================================================================================')
-print('                      ☑ You files have been successfully organized! ')
+print('                        You files have been successfully organized! ')
 print('    ======================================================================================')
