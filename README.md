@@ -63,7 +63,7 @@ __________________________________________________________
 _In short, this code snippet goes through all the files in the `files` list, separates each file by its extension and moves these files to separate directories based on their extensions. If the directory corresponding to the extension already exists, the file is moved there; otherwise, the directory is created before moving the file._
 __________________________________________________________
 
-## Interface:
+## Interface Console:
 
 <img src="https://i.ibb.co/K9dZYv5/interface-extdivi.png" alt="interface-extdivi" border="0">
 
