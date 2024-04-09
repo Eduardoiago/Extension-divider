@@ -65,6 +65,8 @@ __________________________________________________________
 
 ## Interface:
 
+<img src="https://i.ibb.co/K9dZYv5/interface-extdivi.png" alt="interface-extdivi" border="0">
+
 ## Script demo video:
 [![Alt text](https://img.youtube.com/vi/10ejjxfI_XE/0.jpg)](https://www.youtube.com/watch?v=10ejjxfI_XE)
 
