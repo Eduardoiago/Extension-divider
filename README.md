@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/mGyLsGC/title-extdividerpy.png" alt="title-extdividerpy" border="0">
+<img src="/assets/img/title-extdivider.png" alt="title-extdividerpy">
 
 #### Python script to optimize folder organization.
 
@@ -65,7 +65,7 @@ __________________________________________________________
 
 ## Interface Console:
 
-<img src="https://i.ibb.co/K9dZYv5/interface-extdivi.png" alt="interface-extdivi" border="0">
+<img src="/assets/img/interface-extdivider.png" alt="interface-extdivi">
 
 ## Video demo Extension Divider:
 [![Alt text](https://img.youtube.com/vi/10ejjxfI_XE/0.jpg)](https://www.youtube.com/watch?v=10ejjxfI_XE)
@@ -73,4 +73,6 @@ __________________________________________________________
 ## License
  * [MIT](LICENSE)
 
-__________________________________________________________
+## Technologies used:
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
